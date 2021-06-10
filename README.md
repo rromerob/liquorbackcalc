@@ -1,2 +1,2 @@
 # liquorbackcalc
-simple streamlit web app using python to calculate hot liquor needed for rotation brews
+simple streamlit webapp running on python, used to calculate liquor back values for rotation brewing
