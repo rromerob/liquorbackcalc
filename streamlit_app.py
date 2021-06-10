@@ -23,7 +23,7 @@ target_og = st.text_input("Enter your target gravity value (e.g, 12.0):")
 if target_og:
     target_og = float(target_og)
     try:
-        rotation_count = float(st.text_input('How many rotations in this brew?:', help='Only 1 through 4 rotations are supported'))
+        rotation_count = float(st.text_input('How many rotations in this brew?:', help='Only 1 thru 4 rotations are supported'))
     except ValueError:
         pass
 
